@@ -6,10 +6,13 @@
     <emoji
 		name="secondemoji"
 		url="secondemojiurl"/>
+	<testemoji
+		name="fourthemoji"
+		url="fourthemojiurl"/>
     <emoji
 		name="thirdemoji"
 		url="thirdemojiurl"/>
     <emoji
 		name="fourthemoji"
-		url="fourthemojiurl"/>	
+		url="fourthemojiurl"/>
 </emojilist>
