@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<defaultemojis>
-    <defaultemoji>
-		<name type="text">pirate</name>
-		<url type="text">pirateurl</url>
-	</defaultemoji>
-    <defaultemoji>
-		<name type="text">happy</name>
-		<url type="text">happyurl</url>
-	</defaultemoji>	
-    <defaultemoji>
-		<name type="text">awesome</name>
-		<url type="text">awesomeurl</url>
-	</defaultemoji>	
-    <defaultemoji>
-		<name type="text">cool</name>
-		<url type="text">coolurl</url>
-	</defaultemoji>	
-</defaultemojis>
+<emojilist>
+    <emoji
+		name="firstemoji"
+		url="firstemojiurl"/>
+    <emoji
+		name="secondemoji"
+		url="secondemojiurl"/>
+    <emoji
+		name="thirdemoji"
+		url="thirdemojiurl"/>
+    <emoji
+		name="fourthemoji"
+		url="fourthemojiurl"/>	
+</emojilist>
